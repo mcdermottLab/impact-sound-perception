@@ -1,0 +1,8 @@
+# Preserve supplied scientific source and data bytes across platforms.
+* -text
+*.wav binary
+*.mat binary
+*.xlsx binary
+*.png binary
+*.jpg binary
+*.pdf binary

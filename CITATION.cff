@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the accompanying paper."
+type: software
+title: "Impact sound perception: code and data"
+authors:
+  - family-names: Agarwal
+    given-names: Vinayak
+  - family-names: Traer
+    given-names: James
+  - family-names: Schwartz
+    given-names: Jeremy
+  - family-names: McDermott
+    given-names: Josh H.
+preferred-citation:
+  type: article
+  title: "Intuitive knowledge of object acoustics enables perceptual separation of physical variables from impact sounds"
+  authors:
+    - family-names: Agarwal
+      given-names: Vinayak
+    - family-names: Traer
+      given-names: James
+    - family-names: Schwartz
+      given-names: Jeremy
+    - family-names: McDermott
+      given-names: Josh H.
+  journal: "Proceedings of the National Academy of Sciences"
+  year: 2026
+  doi: 10.1073/pnas.2605876123
