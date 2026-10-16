@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="101.6mm" height="76.2mm"
+ viewBox="0 0 288 216"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>MATLAB, The MathWorks, Inc. Version 25.2.0.3042426 R2025b Update 1</desc>
+<defs>
+<pattern id="fillPattern30_" x="76" y="22" width="218" height="220" patternUnits="userSpaceOnUse" >
+<image xlink:href="data:image/png;base64, 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" x="0" y="0" width="218" height="220" />
+</pattern>
+<pattern id="fillPattern31_" x="308" y="22" width="21" height="220" patternUnits="userSpaceOnUse" >
+<image xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAABUAAADcCAYAAACf8OrqAAAACXBIWXMAAAsTAAALEwEAmpwYAAADD0lEQVR4nOWbUZakIAxFH3Vca6+29zT9YVc1KmASrg4qnwq3QkxB8pSkr+9/gtuUEgPKMVMPM1Usmmo39qxptV1LI+4p+rTXz1NK9mmZoS/q8evPuK6nL5Vd5Y5TS38T1Dub6vQ98buF/g4mI2B6wfGUErSgrBGhkNrzt3lB8fx409KoaxY+pf6x+NOXnIt0qyHbScsWV5xa++5CIzPZTJ/w8ZRSOmI74WDvSXYtKLWh7pCy+NwU/Mh2giQTBGgB5beT1L+glEYHt5P2fXOceiZUhfY4ZTF9asFGU8kPFEkmVowwtDXMFVJWnzeDP+qZwnYSJC2giV1MJHBByd3YtaAg2wmXTGC1qZ+zgopbSD5QtDYlkokclDd/bWroYwopr8+rwY9sJ2wy8eJg0jzDbmVC2vo8tKDsjTBbiiQTXlAVSgXAQckEBMptiycTWG1q7GeQOv1T2QQ/4ePf7QQg5VByQUGkTkTozq1pNeN24vrdA4VuCZc62XhCthMkmaiBQlBE6kSEbq81TehBUmc/ZI3okDrrI89/c4YkEz2gDfQAqZNB5pTO7aR8/cJCt9RfVj5E6JYgqXMsoXu2yElaQN/JBFqbwvGECN0S9t60ff9coVuCpM77C90SVZs27p0vdO9ZVIdurAlQNtA0sNAt/fn8/wvdszX7fWyf4SC1qY9RgH6s4Z4YX5umUYRuCZU67b9+rNA9W9NByqG00C2NJHRL6HZi63e80C2hUif7/+dqUyKZWIPydmGh22NRHaonCN1S2ecXF7ojoCKUDIAxhW4J+gxnLKFbii/eDxO6Jeyb3vrICx8Rub/QLWHvTcvXL35EBBG6I9Y0oUMeESkNv8ERESSZ6AUtoMMeEVkTbnJEJDqLBx4R4WrTyvULC92zRQHSApqeIHRL2HvT/T7nCd0S9k0v98TGFLrfoLzdQOi2WFSHLqwJUtbQYYVuaenzmwjdHlATSvh4bKFbgj7D4WpTQ5/zjoj0evlBR0QQofttTaude0SEq03jnCV02CMiSDJRAoWhiNSJCN0ea1rtB/SZCN8trMgFAAAAAElFTkSuQmCC" x="0" y="0" width="21" height="220" />
+</pattern>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0,0 L385,0 L385,289 L0,289 L0,0"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(7.5e-05,0,0,7.5e-05,0,0)"
+font-family=".AppleSystemUIFont" font-size="13" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M760000,220000 L760000,2.42e+06 L2.94e+06,2.42e+06 L2.94e+06,220000 L760000,220000"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,46.1251,11.25)"
+font-family="Helvetica" font-size="16" font-weight="700" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="700" font-style="normal" 
+ >Spectrum: Large Ball Simulation</text>
+</g>
+
+<g fill="url(#fillPattern30_)" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="700" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M76,22 L76,242 L293.59,242 L294,242 L294,22 L155.645,22 L76,22"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,117.375,210.15)"
+font-family="Helvetica" font-size="17" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.078125" font-family="Helvetica" font-size="17" font-weight="400" font-style="normal" 
+ >Time(s)</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="0.666667" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="17" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="76,242 294,242 " />
+<polyline fill="none" vector-effect="none" points="76,22 294,22 " />
+<polyline fill="none" vector-effect="none" points="102.773,242 102.773,239.8 " />
+<polyline fill="none" vector-effect="none" points="102.773,24.2 102.773,22 " />
+<polyline fill="none" vector-effect="none" points="132.816,242 132.816,239.8 " />
+<polyline fill="none" vector-effect="none" points="132.816,24.2 132.816,22 " />
+<polyline fill="none" vector-effect="none" points="162.859,242 162.859,239.8 " />
+<polyline fill="none" vector-effect="none" points="162.859,24.2 162.859,22 " />
+<polyline fill="none" vector-effect="none" points="192.902,242 192.902,239.8 " />
+<polyline fill="none" vector-effect="none" points="192.902,24.2 192.902,22 " />
+<polyline fill="none" vector-effect="none" points="222.946,242 222.946,239.8 " />
+<polyline fill="none" vector-effect="none" points="222.946,24.2 222.946,22 " />
+<polyline fill="none" vector-effect="none" points="252.989,242 252.989,239.8 " />
+<polyline fill="none" vector-effect="none" points="252.989,24.2 252.989,22 " />
+<polyline fill="none" vector-effect="none" points="283.032,242 283.032,239.8 " />
+<polyline fill="none" vector-effect="none" points="283.032,24.2 283.032,22 " />
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,65.4548,194.9)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >0.02</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,110.52,194.9)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >0.06</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,158.959,194.9)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >0.1</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,200.649,194.9)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >0.14</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-0.75,0.75,0,12.85,141)"
+font-family="Helvetica" font-size="17" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.078125" font-family="Helvetica" font-size="17" font-weight="400" font-style="normal" 
+ >Frequency(Hz)</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="0.666667" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="17" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="76,242 76,22 " />
+<polyline fill="none" vector-effect="none" points="294,242 294,22 " />
+<polyline fill="none" vector-effect="none" points="76,210.841 78.2,210.841 " />
+<polyline fill="none" vector-effect="none" points="291.8,210.841 294,210.841 " />
+<polyline fill="none" vector-effect="none" points="76,179.368 78.2,179.368 " />
+<polyline fill="none" vector-effect="none" points="291.8,179.368 294,179.368 " />
+<polyline fill="none" vector-effect="none" points="76,147.894 78.2,147.894 " />
+<polyline fill="none" vector-effect="none" points="291.8,147.894 294,147.894 " />
+<polyline fill="none" vector-effect="none" points="76,116.421 78.2,116.421 " />
+<polyline fill="none" vector-effect="none" points="291.8,116.421 294,116.421 " />
+<polyline fill="none" vector-effect="none" points="76,84.9471 78.2,84.9471 " />
+<polyline fill="none" vector-effect="none" points="291.8,84.9471 294,84.9471 " />
+<polyline fill="none" vector-effect="none" points="76,53.4735 78.2,53.4735 " />
+<polyline fill="none" vector-effect="none" points="291.8,53.4735 294,53.4735 " />
+<polyline fill="none" vector-effect="none" points="76,22 78.2,22 " />
+<polyline fill="none" vector-effect="none" points="291.8,22 294,22 " />
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,25.6,161.131)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >2000</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,25.6,137.526)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >4000</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,25.6,113.921)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >6000</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,25.6,90.3155)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >8000</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,19.6,66.7103)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >10000</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,19.6,43.1052)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >12000</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,19.6,19.5)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >14000</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="0.666667" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="308,242 329,242 " />
+<polyline fill="none" vector-effect="none" points="308,22 329,22 " />
+<polyline fill="none" vector-effect="none" points="308,242 308,22 " />
+<polyline fill="none" vector-effect="none" points="329,242 329,22 " />
+</g>
+
+<g fill="url(#fillPattern31_)" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M308,242 L329,242 L329,22 L308,22 L308,242"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="0.666667" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="329,242 329,22 " />
+<polyline fill="none" vector-effect="none" points="329,242 326.8,242 " />
+<polyline fill="none" vector-effect="none" points="329,205.333 326.8,205.333 " />
+<polyline fill="none" vector-effect="none" points="329,168.667 326.8,168.667 " />
+<polyline fill="none" vector-effect="none" points="329,132 326.8,132 " />
+<polyline fill="none" vector-effect="none" points="329,95.3333 326.8,95.3333 " />
+<polyline fill="none" vector-effect="none" points="329,58.6667 326.8,58.6667 " />
+<polyline fill="none" vector-effect="none" points="329,22 326.8,22 " />
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,250.91,184.5)"
+font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="-0.234375" font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+ >-20</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,250.91,157)"
+font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="-0.234375" font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+ >-15</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,250.91,129.5)"
+font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="-0.234375" font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+ >-10</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,250.91,102)"
+font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="-0.234375" font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+ >-5</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,250.91,74.5)"
+font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="-0.234375" font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+ >0</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,250.91,47)"
+font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="-0.234375" font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+ >5</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.75,0,0,0.75,250.91,19.5)"
+font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="-0.234375" font-family="Helvetica" font-size="14" font-weight="400" font-style="normal" 
+ >10</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0,-0.75,0.75,0,278.66,192.375)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0.3125" font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+ >Sound Intensity/Frequency (dB/Hz)</text>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="0.666667" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="308,22 329,22 " />
+<polyline fill="none" vector-effect="none" points="308,242 329,242 " />
+<polyline fill="none" vector-effect="none" points="308,242 308,22 " />
+<polyline fill="none" vector-effect="none" points="329,242 329,22 " />
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M307.667,241.667 L308.333,241.667 L308.333,242.333 L307.667,242.333 L307.667,241.667"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M307.667,21.6667 L308.333,21.6667 L308.333,22.3333 L307.667,22.3333 L307.667,21.6667"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M328.667,241.667 L329.333,241.667 L329.333,242.333 L328.667,242.333 L328.667,241.667"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="none" transform="matrix(0.75,0,0,0.75,0,0)"
+font-family="Helvetica" font-size="16" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M328.667,21.6667 L329.333,21.6667 L329.333,22.3333 L328.667,22.3333 L328.667,21.6667"/>
+</g>
+</g>
+</svg>
