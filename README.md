@@ -17,6 +17,9 @@ scripts, and saved observer results. Start with the supplied data and statistics
 to reproduce the analyses; use the fitting and synthesis examples to explore
 the generative model.
 
+**[Object IR dataset website](https://mcdermottlab.mit.edu/impact_paper/impulse_responses/)** ·
+**[Download the complete characterized dataset](https://mcdermottlab.mit.edu/impact_paper/impulse_responses/complete-characterized-dataset.zip)**
+
 ## Abstract
 
 Upon hearing objects collide, humans can estimate physical attributes such as
@@ -275,10 +278,28 @@ preprocessed observed recordings, modal parameter tables, and mapping files.
 `observed_1.wav` files are observed, preprocessed IRs used in the modal analysis;
 they are not model-resynthesized waveforms.
 
-**The complete raw IR recording archive, including object photographs, is
-distributed separately and is not included in this repository.** Contact the
-authors for access while its archival release is being prepared. Bundled
-recordings and saved results support the workflows described here.
+The measured-object IR dataset is distributed separately through the
+**[dataset website](https://mcdermottlab.mit.edu/impact_paper/impulse_responses/)**.
+It provides the paper title and citation, the material/size object counts from
+manuscript Table 2, a searchable recording gallery, channel audio previews, and
+per-response characterization.
+
+The **[complete characterized dataset ZIP](https://mcdermottlab.mit.edu/impact_paper/impulse_responses/complete-characterized-dataset.zip)**
+contains all 1,502 selected original `h.wav` files, normalized previews, all 102
+available original photographs and their web copies, recording and channel
+metadata, acoustic descriptors, quality flags, figures, a data dictionary,
+verification/re-characterization tools, and file hashes. The photographs cover
+43 recording IDs; unavailable photographs are identified explicitly.
+
+The website uses the paper's four size categories and Table 2 object totals.
+The archive preserves original recording labels and documents the remaining
+recording-identity and size-mapping discrepancies; recording IDs are not silently
+counted as unique physical objects. See the dataset README and data dictionary
+for details. The longer raw Golay recording sessions and processing checkpoints
+are not part of this repository or the characterized dataset ZIP.
+
+Bundled example recordings and saved results in this repository support the
+workflows described above.
 
 ## Repository layout
 
